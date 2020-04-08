@@ -2,4 +2,6 @@
 react-practices
 
 
-`npm install`
+```bash
+npm install
+```
